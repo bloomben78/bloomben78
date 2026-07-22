@@ -11,7 +11,8 @@ I build high-performance financial models, quantitative trading strategies, and 
 - 🤝 Open to: Collaboration on Quantitative Risk, Algorithmic Trading & Financial ML Projects
 - 📫 Connect: www.linkedin.com/in/benjamin-lehoux | lehouxbenjamin.pro@gmail.com
 
-![Simulation GBM](test/gbm_simulation.gif)
+![Simulation GBM](https://raw.githubusercontent.com/bloomben78/test/master/gbm_simulation.gif)
+
 
 
 ## Software Products
