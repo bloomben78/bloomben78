@@ -3,7 +3,8 @@ Hi there, I'm bloomben 👋
  🎯 Quant, Risk Analyst & Data Science Professional
 I build high-performance financial models, quantitative trading strategies, and risk assessment frameworks driven by advanced analytics.
 
----
+![Simulation GBM](https://raw.githubusercontent.com/bloomben78/test/master/t.gif)
+
 
    📌 About Me
 - 🔭 Focus: Portfolio Optimization, Risk Management (VaR, Credit Risk, Stress Testing) & Time-Series Forecasting
